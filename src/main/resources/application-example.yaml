@@ -1,0 +1,11 @@
+spring:
+  kafka:
+    bootstrap-servers: YOUR_KAFKA_HOST:9092
+    consumer:
+      group-id: your-group-id
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: # your serializer
+
+server:
+  port: 8080
