@@ -128,8 +128,8 @@ http://localhost:8081
 ```json
 {
   "id": "1",
-  "product": "Pizza Margherita",
-  "price": 35.90
+  "product": "Chocolate Chip Cookie",
+  "price": 5.50
 }
 ```
 
