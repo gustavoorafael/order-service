@@ -1,4 +1,4 @@
-# 🍕 Order Service — Event-Driven Architecture with Apache Kafka
+# 🍪 Order Service — Event-Driven Architecture with Apache Kafka
 
 A food delivery order management system inspired by iFood, built with **Java**, **Spring Boot**, and **Apache Kafka**. It simulates the full lifecycle of an order — from placement to delivery — using asynchronous event-driven communication.
  
